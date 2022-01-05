@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+#5CDB95 -emerald green
+#05386B -imperial blue dark
+#EDF5E1 -white
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
